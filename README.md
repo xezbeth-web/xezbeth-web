@@ -5,7 +5,7 @@
 
 Front-End Developer Intern and Full-Stack Developer with hands-on experience building education technology platforms, scalable backend systems, CMS-based websites, and automation workflows.
 
-Experienced in **React, Spring Boot, WordPress, MySQL, n8n, and Zapier**, with a strong focus on clean architecture and production-ready systems.
+Experienced in **React, Spring Boot, WordPress, MySQL, n8n, and Zapier**, with a strong focus on clean architecture, structured UI systems, and production-ready applications.
 
 ---
 
@@ -20,18 +20,26 @@ Experienced in **React, Spring Boot, WordPress, MySQL, n8n, and Zapier**, with a
 
 ---
 
-## 🎧 Transcriptionist & Caption Editor — VIQ Solutions (2025 – Present)
-- Produced accurate transcripts and time-coded captions for professional media content.
-- Edited and formatted transcripts to meet compliance and quality standards.
-- Maintained high accuracy and consistency under strict turnaround deadlines.
-
----
-
 ## 🌐 Freelance Web Developer (2024 – Present)
 - Built responsive websites using **WordPress**, HTML, CSS, JavaScript, and React.
 - Configured WordPress themes, plugins, and CMS structures for client usability.
 - Optimized layouts for SEO, performance, and cross-device compatibility.
 - Delivered custom front-end implementations tailored to business requirements.
+
+---
+
+## 🎧 Transcriptionist & Caption Editor — VIQ Solutions (2025 – Present)
+- Produce accurate transcripts and time-coded captions for professional media content.
+- Edit and format transcripts to meet compliance and quality standards.
+- Maintain high accuracy under strict turnaround deadlines.
+
+---
+
+## 🏆 UAAP DLSU Esports Team Manager (2025 – Present)
+- Manage logistics, operations, and coordination for the university’s competitive esports team.
+- Handle scheduling, communications, and sponsorship coordination.
+- Oversee documentation, reporting, and organizational planning for tournaments and events.
+- Apply structured workflow systems to improve operational efficiency.
 
 ---
 
@@ -116,11 +124,11 @@ Seeking roles in:
 
 - Front-End Engineering  
 - Full-Stack Development  
-- UI/UX 
+- UI/UX Systems  
 - Education Technology Platforms  
 - SaaS & Automation Systems  
 
-Interested in building front-end systems and designs, structured UI architectures, and automation-driven business solutions.
+Interested in building scalable front-end systems, structured UI architectures, and automation-driven solutions.
 
 ---
 
