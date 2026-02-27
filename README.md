@@ -5,7 +5,7 @@
 
 Front-End Developer Intern and Full-Stack Developer with hands-on experience building education technology platforms, scalable backend systems, CMS-based websites, and automation workflows.
 
-Experienced in **React, Spring Boot, WordPress, MySQL, n8n, and Zapier**, with a strong focus on clean architecture, structured UI systems, and production-ready applications.
+Experienced in **HTML, CSS, JS, React, Spring Boot, WordPress, MySQL, n8n, and Zapier**, with a strong focus on clean architecture, structured UI systems, and production-ready applications.
 
 ---
 
