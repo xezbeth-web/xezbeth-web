@@ -120,7 +120,7 @@ Seeking roles in:
 - Education Technology Platforms  
 - SaaS & Automation Systems  
 
-Interested in building scalable systems, structured UI architectures, and automation-driven business solutions.
+Interested in building front-end systems and designs, structured UI architectures, and automation-driven business solutions.
 
 ---
 
