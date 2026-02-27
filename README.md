@@ -116,7 +116,7 @@ Seeking roles in:
 
 - Front-End Engineering  
 - Full-Stack Development  
-- Backend Engineering  
+- UI/UX 
 - Education Technology Platforms  
 - SaaS & Automation Systems  
 
