@@ -1,7 +1,4 @@
-# 👋 Benmar Ramirez
-
 🎓 BS Computer Science (Software Technology) – Expected April 2026  
-📍 Manila, Philippines  
 
 Front-End Developer Intern and Full-Stack Developer with hands-on experience building education technology platforms, scalable backend systems, CMS-based websites, and automation workflows.
 
@@ -133,12 +130,6 @@ Interested in building scalable front-end systems, structured UI architectures, 
 ---
 
 # 📫 Connect With Me
-
-🔗 LinkedIn  
-https://ph.linkedin.com/in/the-benmar-ramirez  
-
-📧 Email  
-benmarsimramirez@gmail.com  
 
 ---
 
